@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2222ab;
+}
+
+.content{
+    display: flex;
+    background-color: #000000;
+    padding: 10%;
+    justify-content: space-evenly;
+}
+
+.content > div{
+    background-color: #ffffff;
+    padding: 10%;
+    border-radius: 5px;
+    border: 3px solid #2222ab;
+    line-height: 1.5;
+    font-weight: bold;
+}
+

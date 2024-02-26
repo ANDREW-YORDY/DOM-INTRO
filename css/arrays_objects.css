@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+h3{
+    margin-top: 2%; 
+    padding: 5%;
+}
+
+#arrayDiv{
+    border: solid 1px #cec7c7;   
+}
+
+/* divSubNewRigth, divSubNewRigth {
+    background-color: red;
+} */
+

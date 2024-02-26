@@ -1,0 +1,41 @@
+/* bucles - loops */
+
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#bucles{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#lista-ul{
+    text-align: center;
+    text-decoration: none;
+    /* background-color: rgb(6, 190, 6); */
+    padding: 1%;
+    margin: 1%;
+    margin-top: 0%;
+}
+
+#lista-ul li{
+    text-decoration: none;
+    background-color: aqua;
+    margin: .5%;
+    list-style-type: none;
+}
+
+h4{
+    margin: 0%;
+}
+.article-static{
+    margin-top: 8%;
+}
+
+#lista-ul-dinamic{
+    font-size: 12px;
+    font-weight: bold;
+}
